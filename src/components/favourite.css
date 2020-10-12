@@ -1,0 +1,21 @@
+.favourites {
+  background-color: black;
+  height: 100vh;
+}
+
+.favourites-showCard {
+  display: flex;
+  flex-wrap: wrap;
+  background-color: black;
+  margin-top: 50px;
+}
+
+.no-favourites {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: yellow;
+  margin-top: 100px;
+  width: 100%;
+}

@@ -1,0 +1,10 @@
+
+.showCards {
+  display: flex;
+  flex-wrap: wrap;
+  background-color: black;
+  margin-top: 50px;
+}
+.loader {
+  margin: auto;
+}
